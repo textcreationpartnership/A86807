@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lord Mayor, aldermen, and commons of the city of London in Common Councell assembled, concerning church government: presented to the House of Peers upon Fryday the 16. of Ianuary 1645. With the answer thereunto. Die Veneris 16. Ian. 1645. Ordered by the Lords in Parliament assembled, that this petition, with the answer thereunto, shall be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86807</idno>
+            <idno type="STC">Wing H3532</idno>
+            <idno type="STC">Thomason E316_20</idno>
+            <idno type="STC">ESTC R200535</idno>
+            <idno type="EEBO-CITATION">99861253</idno>
+            <idno type="PROQUEST">99861253</idno>
+            <idno type="VID">158975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158975)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lord Mayor, aldermen, and commons of the city of London in Common Councell assembled, concerning church government: presented to the House of Peers upon Fryday the 16. of Ianuary 1645. With the answer thereunto. Die Veneris 16. Ian. 1645. Ordered by the Lords in Parliament assembled, that this petition, with the answer thereunto, shall be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>17. Ian. 1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Requests "that no Toleration be granted of Popery, Schisme, Prophanenesse, Etc."--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158975:1" rendition="simple:additions"/>
+            <p>The humble PETITION OF The Lord Mayor, Aldermen, and Commons of the City of LONDON in Common Councell Aſſembled, concerning Church-Government: Preſented to the Houſe of Peers upon Fryday the 16. of Ianuary 1645. With the Anſwer thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <opener>
+                        <date>
+                           <hi>Die Veneris</hi> 16. <hi>Ian.</hi> 1645.</date>
+                     </opener>
+                     <p>ORdered by the Lords in Parliament aſſembled, That this Petition, with the Anſwer thereunto, ſhall be forthwith printed and publiſhed.</p>
+                     <closer>
+                        <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 17. Ian. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:158975:2"/>
+            <pb n="1" facs="tcp:158975:2"/>
+            <head>To the Right Honourable the LORDS now Aſſembled in the High Court of PARLIAMENT. The humble Petition of the Lord Mayor, Aldermen and Commons of the City of <hi>London,</hi> in Common-Councell Aſſembled.</head>
+            <opener>Sheweth;</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat in <hi>Novemb.</hi> laſt the Petitioners made it their humble requeſt to this honou<g ref="char:EOLhyphen"/>rable Houſe, that Church-Government might be ſetled; and are moſt humbly thankfull for your favourable interpre<g ref="char:EOLhyphen"/>tation thereof, proceeding from the good intentions of the Common-Councell, who are re<g ref="char:EOLhyphen"/>ſolved, according to their duty, to have a tender reſpect
+<pb n="2" facs="tcp:158975:3"/> to the Priviledges of Parliament, whereby the Liberties of the City and Kingdome are preſerved: That in <hi>De<g ref="char:EOLhyphen"/>cember</hi> laſt, at the choiſe of new Common-Councell men for the yeare enſuing, the Inhabitants of moſt of the Wards in this City petitioned their reſpective Aldermen in their Wardmote to move your Petitioners to make their further addreſſe to the Honourable Houſes of Par<g ref="char:EOLhyphen"/>liament, for the ſpeedy ſetling of Church-Government within this City, and againſt Toleration, as by Copy of one of the ſaid Petitions annexed appeareth.</p>
+            <p>That private Meetings, eſpecially on the Lords Day, (of which there are at leaſt eleven in one Pariſh) are multiplyed, whereby the publique Congregations, Or<g ref="char:EOLhyphen"/>dinances, and godly Orthodox Miniſters, are very much neglected and contemned, as if they were Antichriſtian, and our preſent times were like the Primitive perſecuti<g ref="char:EOLhyphen"/>ons, or as if we were ſtill under the Tyranny of the Pre<g ref="char:EOLhyphen"/>laticall Government; and by reaſon of ſuch Meetings, and the preaching of women and other ignorant perſons, Superſtition, Hereſie, Schiſme, and Profanneſſe, are much increaſed, Families divided, and ſuch Blaſphemies as the Petitioners tremble to thinke on, uttered, to the high diſhonour of Almighty God.</p>
+            <p>That the Petitioners are informed that divers per<g ref="char:EOLhyphen"/>ſons have an intention to Petition this Honourable Houſe, for a Toleration of ſuch Doctrines as are againſt our Covenant, under the Notion of Liberty of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>The Petitioners therefore having no power of them<g ref="char:EOLhyphen"/>ſelves to ſuppreſſe or overcome theſe growing
+<pb n="3" facs="tcp:158975:3"/> evils; Doe, according to their Covenant, reveale and make the ſame knowne to this Honourable Houſe, and for timely prevention and removall thereof due humbly pray that the Premiſſes may be taken into your moſt ſerious conſideration; And that Church-Government may ſpeedily be ſetled, according to our moſt Solemne Cove<g ref="char:EOLhyphen"/>nant with the moſt High God, in ſuch man<g ref="char:EOLhyphen"/>ner and forme, as to Your Wiſdomes ſhall ſeeme moſt agreeable thereunto, before wee be deſtroyed one by another through rents and diviſions; And that no Toleration be granted, either of Popery, Prelacy, Superſtition, He<g ref="char:EOLhyphen"/>reſie, Schiſme, Prophanneſſe, or of any thing contrary to ſound Doctrine and the power of godlineſſe; And that all private Meetings, con<g ref="char:EOLhyphen"/>trary to the ſaid Covenant (the rather in regard of the ſad effects thereof) may be reſtrained.</p>
+            <closer>
+               <hi>And the Petitioners ſhall pray, &amp;c,</hi> 
+               <signed>MICHELL.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:158975:4"/>
+            <head>To the Right Worſhipfull the Alder<g ref="char:EOLhyphen"/>man and Common Counſell-men of the Ward of Farrington within at their Ward-moot; A repreſentation of the Humble deſires of the Inhabitants of the ſaid Ward.</head>
+            <p>THat Church-Government may ſpeedily be ſetled within the City, before we be utterly ruined with rents and diviſions.</p>
+            <p n="2">
+               <hi>II</hi> That this Government may be that which is agree<g ref="char:EOLhyphen"/>able to the Word of God, and example of the beſt Re<g ref="char:EOLhyphen"/>formed Churches, according to our ſolemne League and Covenant with the moſt High God.</p>
+            <p n="3">
+               <hi>III</hi> That no Toleration either of Popery, Prelacy, Schiſme, Hereſie, Superſtition, Prophanneſſe, or any thing contrary to ſound Doctrine, or the power of godlineſſe may at all be yeelded unto, as being againſt the Word of God, and contrary to the very letter of our Covenant.</p>
+            <p>And theſe our moſt humble and earneſt deſires, which we are obliged and encouraged alſo to make, by reaſon of our ſaid Covenant, we intreat the Right Worſhipfull the Alderman, and Common Counſell-men of this Ward, to repreſent to the right Honourable the Lord Mayor, and the Honourable Court of Common-Counſell at their firſt ſiting, that they would make their fur<g ref="char:EOLhyphen"/>ther addreſſe to the Honourable Houſes of Parliament, for the obtaining of theſe our juſt and neceſſary deſires.</p>
+         </div>
+         <div type="reply">
+            <pb n="5" facs="tcp:158975:4"/>
+            <head>The Anſwer to the ſaid Petition, pro<g ref="char:EOLhyphen"/>nounced by the Speaker of the Houſe of Peeres.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords have alwaies had great expe<g ref="char:EOLhyphen"/>rience of the care and good affecti<g ref="char:EOLhyphen"/>ons of the Lord Mayor, Aldermen, and Common-Councell of the City of <hi>London,</hi> for which they are glad of any opportunity to expreſſe their great ſenſe, and to returne their hearty thanks, and more eſpecially upon this occaſion, wherein the Common-Councell have manifeſted ſo great Zeale and Faithfulneſſe to the true Worſhip of Almighty God, and care for the Peace and well Order<g ref="char:EOLhyphen"/>ing of the City of <hi>London,</hi> in which the whole King<g ref="char:EOLhyphen"/>dome is ſo neerly concerned; The Lords therefore up<g ref="char:EOLhyphen"/>on conſideration of the Petition now preſented unto them, and the expreſſions of that worthy Alderman made unto their Lordſhips, have commanded mee in their names to give ye further and larger acknowledge<g ref="char:EOLhyphen"/>ments for your great care and endeavours to prevent
+<pb n="6" facs="tcp:158975:5"/> ſo growing a miſchiefe, giving ye this aſſurance, That as they have been very forward formerly to doe what in them lay for a ſettlement of Church-Government, ſo they ſhall ſtill continue to advance and perfrom Worke ſo much tending to the glory of God, and to the ſetling of the Peace of the Kingdom, holding them<g ref="char:EOLhyphen"/>ſelves thereunto obliged by their ſolemne <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Covenant; and they <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> care of the Lord Mayor, and ſuch as are in Office in the City, to ſuppreſſe and prevent ſuch great Offences by you mentioned, which are ſo much to the diſhonour of God and the diſturbance of the preſent and future good Government of the City of <hi>London.</hi> And where<g ref="char:EOLhyphen"/>in ye ſhall finde your ſelves wanting in power, the Lords will be ready to contribute their authority for your in<g ref="char:EOLhyphen"/>couragement and aſſiſtance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
